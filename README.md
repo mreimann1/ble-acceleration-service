@@ -1,6 +1,21 @@
 # ble-acceleration-service
 
-![BLE Service](./img/acceleration_service.gif)
+<table>
+  <tr>
+    <td rowspan="2">
+      <img src="./img/acceleration_service.gif">
+    </td>
+    <td>
+      <img src="./img/accelerationservice_welcome.PNG">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="./img/accelerationservice_readings.PNG">
+    </td>
+  </tr>
+  </col>
+</table>
 
 _Demonstration of Application Connecting to BLE Service_
 
