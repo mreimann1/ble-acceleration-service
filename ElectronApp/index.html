@@ -1,0 +1,26 @@
+<!-- Index page for the Mission Control Electron App -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset=UTF-8>
+    <title>Mission Control</title>
+    <link rel=stylesheet href=index.css>
+    <link rel=stylesheet href=./node_modules/bootstrap/dist/css/bootstrap.min.css>
+    <script src=./node_modules/jquery/dist/jquery.js></script>
+    <script src=./node_modules/@popperjs/core/dist/umd/popper.min.js></script>
+    <script src=./node_modules/bootstrap/dist/js/bootstrap.bundle.min.js></script>
+    <script src="./node_modules/plotly.js-dist/plotly.js"></script>
+  </head>
+  <body id="body">
+    <script src="bytedecoder.js"></script>
+    <script src="pages.js"></script>
+  </body>
+  <script defer>
+      var beginBtn = document.getElementById('begin-btn')
+      var body = document.getElementById('body')
+      beginBtn.addEventListener('click', function () {
+        console.log('Begin btn clicked.')
+        load_connect()
+      })
+  </script>
+</html>
