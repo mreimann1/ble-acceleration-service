@@ -1,6 +1,6 @@
 # ble-acceleration-service
 
-<table>
+<table style="border: none;">
   <tr>
     <td rowspan="2">
       <img src="./img/acceleration_service.gif">
