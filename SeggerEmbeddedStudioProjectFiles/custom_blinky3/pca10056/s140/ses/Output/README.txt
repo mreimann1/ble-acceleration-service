@@ -14,4 +14,8 @@ the project and not be used to build the project
 
 10/4/20
 
-./Release directory re-added
+DIRECTORIES RE-ADDED DUE TO REPO SPACE AVAILABLE
+
+./Release 
+
+./custom_blinky Release
