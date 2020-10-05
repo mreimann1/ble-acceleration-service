@@ -26,6 +26,14 @@ Electron application that connects to the service.
 
 The BLE service connects to the web via a Gateway and the [nRF Cloud](https://nrfcloud.com/#/) service.
 
+## Supplies
+
+This project was built using:
+* nRF52840 Development Kit with micro USB cable
+* SeggerEmbedded Studio for ARM
+* MC3672 Accelerometer
+* Assorted m2m jumper wires
+
 ## Usage
 
 This repo is meant to show an overview of all pieces of the project. Familiarity with the tools used is expected.
