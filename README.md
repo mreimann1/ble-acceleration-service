@@ -28,11 +28,15 @@ The BLE service connects to the web via a Gateway and the [nRF Cloud](https://nr
 
 ## Supplies
 
-This project was built using:
+This project was built using the following hardware:
 * nRF52840 Development Kit with micro USB cable
 * SeggerEmbedded Studio for ARM
 * MC3672 Accelerometer
 * Assorted m2m jumper wires
+
+## Data Visulization
+
+The Data Visualization tool used for this project is [plotly.js](https://plotly.com/javascript/).
 
 ## Usage
 
