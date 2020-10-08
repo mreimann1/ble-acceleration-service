@@ -34,7 +34,7 @@ This project was built using the following hardware:
 * MC3672 Accelerometer
 * Assorted m2m jumper wires
 
-## Data Visulization
+## Data Visualization
 
 The Data Visualization tool used for this project is [plotly.js](https://plotly.com/javascript/).
 
