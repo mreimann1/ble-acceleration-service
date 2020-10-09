@@ -38,6 +38,8 @@ This project was built using the following hardware:
 
 The Data Visualization tool used for this project is [plotly.js](https://plotly.com/javascript/).
 
+./ElectronApp/graph/plotlygraph.js can be run as a standalone html page to plot the graph.
+
 ## Usage
 
 This repo is meant to show an overview of all pieces of the project. Familiarity with the tools used is expected.
